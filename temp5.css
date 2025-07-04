@@ -86,6 +86,6 @@ color: rgb(255, 71, 71);
 
 .content{
     grid-area: content;
-    background-color: rgba(8, 8, 8, 0.74);
+    background-color: rgba(19, 17, 17, 0.644);
     position: relative;
 }
